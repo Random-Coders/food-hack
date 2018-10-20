@@ -31,9 +31,9 @@
 .topnav input[type=text] {
     float: bottom-center;
     padding: 6px;
-    border: none;
-    margin-top: 10px;
-    margin-right: 20px;
+    border: insert;
+    margin-top: 400px;
+    margin-left: 390px;
     font-size: 17px;
 }
 

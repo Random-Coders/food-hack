@@ -1,6 +1,7 @@
 #Flask APP
 # Imports
 from flask import Flask, render_template
+from models import recipe
 
 app = Flask(__name__, template_folder='templates')
 
